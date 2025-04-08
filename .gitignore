@@ -1,0 +1,35 @@
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# VS Code settings
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Compiled code
+*.so
+*.dll
+*.exe
+
+# Model and cache directories
+llama-models/
+*.gguf
+.cache/
+
+# Logs and outputs
+*.log
+
+# Environment variables
+.env
